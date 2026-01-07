@@ -1,12 +1,20 @@
 <template>
-  <div>
-    <h2>🛒 商城</h2>
-    <button @click="back">返回</button>
+  <div class="chat-container">
+    <!-- 所有的逻辑、背景、按钮都在 ChatWindow 里，这里只负责引入 -->
+    <ChatWindow />
   </div>
 </template>
 
 <script setup>
-import { useRouter } from 'vue-router'
-const router = useRouter()
-const back = () => router.push('/')
+import ChatWindow from '@/components/ai/ChatWindow.vue';
 </script>
+
+<style scoped>
+.chat-container {
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  
+}
+</style>
