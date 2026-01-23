@@ -14,8 +14,8 @@
 
 本项目是**软件工程前端开发课程大作业**，旨在探索现代前端工程化开发、组件化架构设计以及响应式交互体验的实现
 
-- 🌐 **在线演示**: [点击这里查看 Demo](https://github.com/aixiao528/-/releases/download/v1.0.0/default.mp4)
-- 📚 **文档地址**: [点击这里查看完整文档](https://github.com/aixiao528/-/releases/download/v1.0.0/4.docx)
+- 🌐 **下载演示视频**: [点击这里查看 Demo](https://github.com/aixiao528/-/releases/download/v1.0.0/default.mp4)
+- 📚 **下载项目文档**: [点击这里查看完整文档](https://github.com/aixiao528/-/releases/download/v1.0.0/4.docx)
 
 ## ✨ 核心功能 (Features)
 
